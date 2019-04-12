@@ -14,8 +14,6 @@ in neat-python.  You can of course roll your own parallelism mechanism
 or inherit from ParallelEvaluator if you need to do something more complicated.
 """
 
-from __future__ import print_function
-
 import math
 import os
 import time
